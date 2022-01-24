@@ -1,2 +1,1 @@
-# git_repositry
-git repjsad
+https://ramjikumarcom.github.io/git_repositry/
